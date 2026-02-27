@@ -5,7 +5,6 @@ A **casino-style Slot Machine game** built using Python that runs entirely in th
 Designed with **clean logic, modular functions, and strong input validation**, this project demonstrates practical Python fundamentals and game-based problem solving.
 
 ---
-
 ## ✨ Features
 
 * 💰 Secure deposit & balance tracking
